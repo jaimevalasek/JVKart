@@ -12,6 +12,6 @@ Enable the module in the file application.config.php. Add the module JVKart.
 
 Usage tutorials
 -----
-http://www.zf2.com.br
+http://www.zf2.com.br/tutoriais
 
 http://www.youtube.com/zf2tutoriais
